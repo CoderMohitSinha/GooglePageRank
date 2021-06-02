@@ -1,0 +1,29 @@
+
+
+Total Valid Nodes : 3425
+Total Valid Edges : 37596
+
+Top 15 page ranks are : 
+Rank: 3425 of node no. (3133)           (Airport code : GEA)(0.00111227)
+Rank: 3424 of node no. (502)           (Airport code : FRA)(0.00104842)
+Rank: 3423 of node no. (797)           (Airport code : IST)(0.00103105)
+Rank: 3422 of node no. (449)           (Airport code : CDG)(0.00102772)
+Rank: 3421 of node no. (227)           (Airport code : AMS)(0.00101786)
+Rank: 3420 of node no. (202)           (Airport code : ATL)(0.000947236)
+Rank: 3419 of node no. (290)           (Airport code : PEK)(0.000909494)
+Rank: 3418 of node no. (126)           (Airport code : ORD)(0.000885956)
+Rank: 3417 of node no. (6)           (Airport code : DME)(0.000844552)
+Rank: 3416 of node no. (193)           (Airport code : MUC)(0.000836616)
+Rank: 3415 of node no. (167)           (Airport code : DXB)(0.000803472)
+Rank: 3414 of node no. (373)           (Airport code : DFW)(0.000801682)
+Rank: 3413 of node no. (467)           (Airport code : LHR)(0.000755008)
+Rank: 3412 of node no. (143)           (Airport code : LGW)(0.000735276)
+Rank: 3411 of node no. (1208)           (Airport code : DEN)(0.000729609)
+
+Total Strongly Connected Components are : 44
+Size of the Giant Component is : 3354
+
+No. of Articulation Points : 366
+No. of Bridges : 839
+
+
